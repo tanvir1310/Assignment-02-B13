@@ -1,14 +1,14 @@
+body {
+  background-color: #1a0b2e;
+  padding: 0px;
+  margin: 0px;
+}
+
 .inter-font {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-}
-
-body {
-  background-color: #1a0b2e;
-  padding: 0px;
-  margin: 0px;
 }
 
 /* nav start */
@@ -591,7 +591,6 @@ body {
 }
 /* about to footer end */
 
-/* mobile resposive start */
 .text-block-6 {
   color: #fff9;
   text-align: center;
@@ -615,6 +614,8 @@ body {
   inset: 0% 9% auto auto;
   box-shadow: 0 3px 27px #0f8;
 }
+
+/* mobile responsive start */
 
 @media screen and (max-width: 576px) {
   .home-hero-section {
